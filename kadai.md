@@ -11,3 +11,11 @@
 
 ## 課題3
 - 同様に http://localhost:8000/users にアクセスした際に以下の画面が表示されることを確認する。各人物の名前をクリックするとそれぞれの詳細ページに遷移する。（= 詳細ページを表示するためのリクエストを送る）
+- 一覧ページ
+[![Image from Gyazo](https://i.gyazo.com/19abb1996896d646e79879a65b617987.png)](https://gyazo.com/19abb1996896d646e79879a65b617987)
+- 太郎（詳細ページ）
+[![Image from Gyazo](https://i.gyazo.com/12ec811e5c604ff07fe9bbcc2729cd5d.png)](https://gyazo.com/12ec811e5c604ff07fe9bbcc2729cd5d)
+- 次郎（詳細ページ）
+[![Image from Gyazo](https://i.gyazo.com/a21a2418013c68591ad2e0697368ec60.png)](https://gyazo.com/a21a2418013c68591ad2e0697368ec60)
+- 三郎（詳細ページ）
+[![Image from Gyazo](https://i.gyazo.com/503387d39533a98b407836b6dae40a40.png)](https://gyazo.com/503387d39533a98b407836b6dae40a40)
